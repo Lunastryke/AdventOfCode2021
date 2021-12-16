@@ -45,7 +45,7 @@ possible_co2 = data
 while (curr_idx != len(count)):
     possible_ox = getCommon(possible_ox, curr_idx, True)
     possible_co2 = getCommon(possible_co2, curr_idx, False)
-    curr_idx += 1;
+    curr_idx += 1
 
 possible_ox = bytes(possible_ox[0], 'utf-8')
 possible_co2 = bytes(possible_co2[0], 'utf-8')
