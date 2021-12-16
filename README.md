@@ -5,7 +5,7 @@ Repo for code solutions for Advent of Code challenge 2021
 - Challenges are done to practise my programming skills! May not be the best implementation of the solution
 [Link to Advent of Code Challenge](https://adventofcode.com/)
 
-## Summary of challengess
+## Summary of challenges
 - Day 1 : `Python` : Pretty straightforward challenge
 - Day 2 : `Python` : Pretty straightforward challenge
 - Day 3 : `Python` : Pretty straightforward challenge
