@@ -14,3 +14,6 @@ Repo for code solutions for Advent of Code challenge 2021
 - Day 6 : `C++` : Interesting problem, used OOP at first but ran out of ram on 2nd part so had to change approach
 - Day 7 : `C++` : DP problem
 - Day 8 : `C++/Python` : Quite a tedious challenge, draw a tree to split cases and narrow down digits to solve
+- Day 9 : `Python` : DFS floodfill, to read up more about the use of Reduce
+- Day 10 : `Python` : Braces matching, dict to map open braces to closed braces and to score. Middle element of array is len(array)//2 not len(array)//2 + 1!!
+- Day 11 : `Python` : Similar to Day 9, DFS floodfill with different 'visited' condition
