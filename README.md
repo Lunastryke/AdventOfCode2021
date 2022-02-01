@@ -10,6 +10,7 @@ Repo for code solutions for Advent of Code challenge 2021
 - Day 2 : `Python` : Pretty straightforward challenge
 - Day 3 : `Python` : Pretty straightforward challenge
 - Day 4 : `Python` : Slightly more challenging, lined all bingo boards in a 1D array and used their indexes to identify which board they were
-- Day 5 :  `C++` : Input parsing of strings were the major issue here, also vector manipulation was slightly troublesome
+- Day 5 : `C++` : Input parsing of strings were the major issue here, also vector manipulation was slightly troublesome
 - Day 6 : `C++` : Interesting problem, used OOP at first but ran out of ram on 2nd part so had to change approach
 - Day 7 : `C++` : DP problem
+- Day 8 : `C++/Python` : Quite a tedious challenge, draw a tree to split cases and narrow down digits to solve
