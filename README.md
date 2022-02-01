@@ -18,3 +18,4 @@ Repo for code solutions for Advent of Code challenge 2021
 - Day 10 : `Python` : Braces matching, dict to map open braces to closed braces and to score. Middle element of array is len(array)//2 not len(array)//2 + 1!!
 - Day 11 : `Python` : Similar to Day 9, DFS floodfill with different 'visited' condition
 - Day 12 : `Python` : DFS, interesting method to do DFS, currently stuck at Part 2 with the current implementation
+- Day 13 : `Python` : Pretty straightfoward challenge, probably can optimise memory usage
