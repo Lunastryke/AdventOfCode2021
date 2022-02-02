@@ -19,3 +19,4 @@ Repo for code solutions for Advent of Code challenge 2021
 - Day 11 : `Python` : Similar to Day 9, DFS floodfill with different 'visited' condition
 - Day 12 : `Python` : DFS, interesting method to do DFS, currently stuck at Part 2 with the current implementation
 - Day 13 : `Python` : Pretty straightfoward challenge, probably can optimise memory usage
+- Day 14 : `Python` : Part 1 was done naively, Part 2 ran out of time so decided to maintain only pair counts and mappings instead which worked well. Also did it in OOP fashion, will do the rest of the AoC challenges in a similar fashion.
